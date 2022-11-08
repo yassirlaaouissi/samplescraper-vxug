@@ -1,2 +1,2 @@
 # samplescraper-vxug
-Build to download all samples from vx-underground
+Got this scraper from f0wl
